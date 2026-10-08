@@ -1,4 +1,4 @@
-# GORIN: Genome-Resolved Inference on MAG Network
+# GORIN: Genome abundance Optimization from 16S rRNA-Informed Networks
 
 GORIN estimates metagenome-assembled genome (MAG) abundances from amplicon sequence variant (ASV) abundances using genomic copy-number information and network regularization.
 
